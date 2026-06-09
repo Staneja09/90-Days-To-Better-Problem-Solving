@@ -20,13 +20,14 @@ End Date: XX Month 2026
 
 ## 🔥 Current Streak
 
-Day 1 / 90
+Day 2 / 90
 
 ## 📊 Progress Tracker
 
 | Day | Problems Solved | Topics | Blog |
 |------|------|------|------|
 | 1 | 5 | Prefix Sum | ✅ |
+| 2 | 4 | Prefix Sum | ✅ |
 
 ## 🧠 Platforms
 
